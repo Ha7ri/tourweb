@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}  
+
+img{
+    
+    padding: 5%;
+    border-radius: 2%;
+
+}
+ h4{
+    padding: 1%;
+    border-radius: 3%;
+ }
+
+.cards{
+    width: 3%;
+    background-color: grey;
+}
+.image img{
+    width: 100%;
+}
+.card-title{
+    text-align: center;
+}
+h4:hover{
+    background-color: black;
+    color: white;
+    transition: .5s;
+}
+
+.wrapper{
+    border-top: 3px solid green;
+}
